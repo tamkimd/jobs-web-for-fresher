@@ -2,7 +2,7 @@
 
  website to support finding fresher jobs
 
-It utilizes Python for web scraping to gather fresher job posts from various sources, exports the collected data to a JSON file, and uses PHP and Bootstrap for a visually appealing display.![1697169197105](https://file+.vscode-resource.vscode-cdn.net/c%3A/Users/Datas/OneDrive/Ta%CC%80i%20li%C3%AA%CC%A3u/GitHub/fresher-jobs-website/image/README/1697169197105.png)
+It utilizes Python for web scraping to gather fresher job posts from various sources, exports the collected data to a JSON file, and uses PHP and Bootstrap for a visually appealing display.![1697169197105](https://raw.githubusercontent.com/tamkimd/jobs-web-for-fresher/main/image/README/1697169197105.png?token=GHSAT0AAAAAACI2TCRHG3VR6DSAZX6NPQMYZJIYFCA)
 
 ## Utilized:
 
